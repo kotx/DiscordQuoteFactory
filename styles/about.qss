@@ -1,0 +1,7 @@
+QDialog {
+    background-image:url(:/images/background.png);
+}
+
+QLabel {
+    background-color: rgba(240, 240, 240, 60%);
+}
