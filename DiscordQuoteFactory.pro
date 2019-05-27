@@ -49,5 +49,8 @@ RESOURCES += \
     resources.qrc
 
 DISTFILES += \
+    .gitignore \
+    README.md \
+    explorer_demo.png \
     styles/about.qss
     assets/background.png
