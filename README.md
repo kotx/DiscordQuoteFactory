@@ -1,3 +1,6 @@
+# Disclaimer
+I'm not responsible for anything that happens to you for modifying the Discord Client with this program.
+
 # Discord Quote Factory
 
 Utility to rewrite Discord startup quotes. The code isn't much really, it was supposed to be a Qt exercise.
